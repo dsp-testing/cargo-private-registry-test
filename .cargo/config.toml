@@ -1,0 +1,3 @@
+[registries.honeyankit-test]
+index = "sparse+https://cargo.cloudsmith.io/honeyankit/test/"
+credential-provider = "cargo:token"
