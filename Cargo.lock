@@ -1,0 +1,6 @@
+[[package]]
+name = "hello-world"
+version = "1.0.0"
+source = "sparse+https://cargo.cloudsmith.io/honeyankit/test/"
+checksum = "b2c263921f1114820f4acc6b542d72bbc859ce7023c5b235346b157074dcccc7"
+dependencies = []
