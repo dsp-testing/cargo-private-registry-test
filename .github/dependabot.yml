@@ -7,6 +7,7 @@ version: 2
 registries:
   cargo-example:
     type: cargo-registry
+    registry: "honeyankit-test"
     url: https://cargo.cloudsmith.io/honeyankit/test/
     token: "Token ${{secrets.CARGO_TOKEN}}"
 updates:
