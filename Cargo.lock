@@ -4,9 +4,9 @@ version = 3
 
 [[package]]
 name = "hello-world"
-version = "1.0.1"
+version = "1.0.2"
 source = "sparse+https://cargo.cloudsmith.io/honeyankit/test/"
-checksum = "8a55b58def1ecc7aa8590c7078f379ec9a85328363ffb81d4354314b132b95c4"
+checksum = "9e21213589c10d30973283629bb27520ddf46141882e26ea10b70959c7bafc2c"
 
 [[package]]
 name = "test-group"
